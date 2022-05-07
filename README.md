@@ -7,4 +7,5 @@ We need to put the .npy files in the corresponding file path, and then run the C
 Unzip the \*.zip file in the DDD folder and put it in the DDD folder. <br>
 Unzip the \*.zip file in the flyaction/5/ folder and put it in the flyaction/5/ folder.<br>
 Unzip the \*.zip file in the flyaction/9/ folder and put it in the flyaction/9/ folder.<br>
-The file directory is shown in Figure 1.
+The file directory is shown in fig 1.png.<br>
+Unzip the \*.zip file in the Modify_\* folder and put them in the Modify_\*/ folder.<br>
