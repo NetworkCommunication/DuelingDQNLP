@@ -10,9 +10,6 @@ if sys.version_info.major == 2:
 else:
     import tkinter as tk
 import matplotlib.pyplot as plt
-from TSP import tsp
-
-tsp = tsp()
 
 UNIT = 1  # pixels
 IOT_H = 1000  # grid height
